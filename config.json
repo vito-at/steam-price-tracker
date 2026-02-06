@@ -1,0 +1,13 @@
+{
+  "interval_minutes": 15,
+  "steam_currency": 1,
+  "items": [
+    {
+      "name": "AK-47 | Redline (Field-Tested)",
+      "steam_appid": 730,
+      "steam_market_hash_name": "AK-47 | Redline (Field-Tested)",
+      "target_price": 100.0,
+      "notify_on_any_drop": true
+    }
+  ]
+}
